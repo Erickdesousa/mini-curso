@@ -1,2 +1,2 @@
-# mini-curso
+# Mini-curso
 Mini curso Catalisa
